@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <>
-      <h1>initial code</h1>
+      <h1 className="">initial code</h1>
     </>
   )
 }
